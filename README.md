@@ -1,7 +1,9 @@
 # wine-fixes
 
-Small workarounds for games that misbehave under Proton / Wine.
+Kleine Umgehungen für Spiele, die unter Proton / Wine Probleme machen.
 
-| Folder | Game | Problem |
+*Small workarounds for games that misbehave under Proton / Wine.*
+
+| Ordner / Folder | Spiel / Game | Problem |
 |---|---|---|
-| [foundation-overlay](foundation-overlay/) | Foundation: Galactic Frontier (Demo) | transparent Qt overlay swallows mouse clicks |
+| [foundation-overlay](foundation-overlay/) | Foundation: Galactic Frontier (Demo) | transparentes Qt-Overlay schluckt Mausklicks · transparent Qt overlay swallows mouse clicks |
